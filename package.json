@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "googleapis": "131.0.0",
-    "sitemapper": "3.2.8"
+    "sitemapper": "3.2.9"
   },
   "prettier": {
     "printWidth": 120
